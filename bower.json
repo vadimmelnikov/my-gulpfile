@@ -1,0 +1,18 @@
+{
+  "name": "my-gulpfile",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vadimmelnikov/my-gulpfile",
+  "authors": [
+    "VadimMelnikov <vadic_m@mail.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendor",
+    "test",
+    "public",
+    "tests"
+  ]
+}

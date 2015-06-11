@@ -1,0 +1,20 @@
+$blue: #00b9fe; 
+
+@mixin clearfix() {
+    &:before,
+    &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+// @include clearfix();
+@mixin uldev() {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
