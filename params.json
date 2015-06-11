@@ -1,0 +1,1 @@
+{"name":"My-gulpfile","tagline":"Мой gulpfile.js","body":"# my-gulpfile\r\n**Устанавливаем пакеты:**\r\nnpm i\r\n\r\n***\r\n\r\n**Строим продакшн:**\r\ngulp build\r\n\r\n***\r\n\r\n**Запускаем сервер:**\r\ngulp","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
