@@ -1,5 +1,5 @@
 {
-  "name": "mw_markup",
+  "name": "my-gulpfile",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "dependencies": {
@@ -35,8 +35,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@148.251.68.114/mw_markup.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "Устанавливаем пакеты:\r <br>\r npm i\r <br>\r Строим продакшн:\r <br>\r gulp build\r <br>\r Запускаем сервер:\r <br>\r gulp"
 }
